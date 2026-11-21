@@ -107,3 +107,17 @@ Instead of paying per clip, rent a strong GPU by the hour and run **open-weight*
 - Wan 2.2: https://huggingface.co/Wan-AI/Wan2.2-T2V-A14B
 - LTX-2.5: https://huggingface.co/Lightricks/LTX-2.5
 - RunPod pricing: https://www.runpod.io/pricing
+
+---
+
+### What next? · شو بعد؟
+
+- ⭐ Star this repo if it helped, so more people find it.
+- Follow [@alihaidar.dev](https://www.instagram.com/alihaidar.dev/) on Instagram or [TikTok](https://www.tiktok.com/@alihaidar.dev) for the next free guide.
+- All my free guides: [github.com/alihaidar2950](https://github.com/alihaidar2950?tab=repositories)
+
+<div dir="rtl">
+
+إذا فادك، حطّ ⭐ عالـrepo، وتابعني عَ [إنستغرام](https://www.instagram.com/alihaidar.dev/) أو [تيك توك](https://www.tiktok.com/@alihaidar.dev) لتوصلك الأداة الجاية ببلاش.
+
+</div>
